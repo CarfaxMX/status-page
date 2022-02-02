@@ -4,19 +4,19 @@
     "url": "https://reporte.carinfo.com.mx",
     "icon": "https://favicons.githubusercontent.com/reporte.carinfo.com.mx",
     "slug": "reporte-cari",
-    "status": "down",
-    "uptime": "3.16%",
-    "uptimeDay": "3.16%",
-    "uptimeWeek": "3.16%",
-    "uptimeMonth": "3.16%",
-    "uptimeYear": "3.16%",
-    "time": 461,
-    "timeDay": 461,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "0.49%",
+    "uptimeDay": "0.49%",
+    "uptimeWeek": "0.49%",
+    "uptimeMonth": "0.49%",
+    "uptimeYear": "0.49%",
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 16
     }
   },
   {
