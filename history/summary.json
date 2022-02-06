@@ -24,45 +24,49 @@
     "url": "https://pruebasbeta.globalgbc.com",
     "icon": "https://favicons.githubusercontent.com/pruebasbeta.globalgbc.com",
     "slug": "pruebas-beta",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 324,
     "timeDay": 158,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-06": 1
+    }
   },
   {
     "name": "Pruebas Alfa",
     "url": "https://pruebasalfa.globalgbc.com",
     "icon": "https://favicons.githubusercontent.com/pruebasalfa.globalgbc.com",
     "slug": "pruebas-alfa",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 512,
     "timeDay": 160,
     "timeWeek": 512,
     "timeMonth": 512,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-06": 0
+    }
   },
   {
     "name": "Reporte Car-Info",
     "url": "https://reporte.car-info.com.mx",
     "icon": "https://favicons.githubusercontent.com/reporte.car-info.com.mx",
     "slug": "reporte-car-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +75,8 @@
     "timeWeek": 431,
     "timeMonth": 431,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-06": 0
+    }
   }
 ]
