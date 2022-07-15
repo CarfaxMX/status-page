@@ -1,7 +1,7 @@
 url: https://reporte.car-info.com.mx
-status: up
-code: 200
-responseTime: 731
-lastUpdated: 2022-07-14T23:17:58.985Z
+status: down
+code: 503
+responseTime: 449
+lastUpdated: 2022-07-15T23:16:27.196Z
 startTime: Wed Feb 02 2022 18:21:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
