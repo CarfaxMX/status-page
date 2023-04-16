@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 535,
-    "timeDay": 153,
-    "timeWeek": 402,
-    "timeMonth": 685,
-    "timeYear": 533,
+    "timeDay": 315,
+    "timeWeek": 397,
+    "timeMonth": 689,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2022-08-23": 36,
       "2022-07-14": 33,
@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pruebasbeta.globalgbc.com.ico",
     "slug": "pruebas-beta",
     "status": "down",
-    "uptime": "1.19%",
+    "uptime": "1.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2023-04-15": 54,
+      "2023-04-16": 54,
+      "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -403,8 +404,7 @@
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
-      "2022-04-17": 1440,
-      "2022-04-16": 1440
+      "2022-04-17": 1440
     }
   },
   {
@@ -413,7 +413,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pruebasalfa.globalgbc.com.ico",
     "slug": "pruebas-alfa",
     "status": "down",
-    "uptime": "1.19%",
+    "uptime": "1.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -424,7 +424,8 @@
     "timeMonth": 0,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-04-15": 54,
+      "2023-04-16": 54,
+      "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -787,8 +788,7 @@
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
-      "2022-04-17": 1440,
-      "2022-04-16": 1440
+      "2022-04-17": 1440
     }
   },
   {
@@ -797,18 +797,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reporte.car-info.com.mx.ico",
     "slug": "reporte-car-info",
     "status": "down",
-    "uptime": "34.81%",
+    "uptime": "34.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.97%",
+    "uptimeYear": "22.70%",
     "time": 502,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 513,
+    "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-04-15": 54,
+      "2023-04-16": 54,
+      "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
